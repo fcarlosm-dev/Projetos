@@ -13,7 +13,7 @@ Projeto criado com o intiuito de que o consumidor/cliente possa calcular o impac
 A ideia é que após o cálculo, o consumidor/cliente tenha a dimensão do gasto e possa tomar atitudes mais conscientes de economia.
 Projeto aberto para adicionar novas funcionalidades.
 
-Ícones:
+#Ícones
 📱 Aparelho
 ⚡ Consumo estimado
 💰 Custo estimado
